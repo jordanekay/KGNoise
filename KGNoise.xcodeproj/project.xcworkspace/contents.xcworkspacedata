@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:KGNoiseExample.xcodeproj">
+      location = "self:KGNoise.xcodeproj">
    </FileRef>
 </Workspace>
